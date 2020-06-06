@@ -5,11 +5,16 @@
       <config />
     </shared>
   </component>
+<<<<<<< HEAD
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8f5ab9f-9eb6-4d8c-8194-7baa497d97dd" name="Default Changelist" comment="" />
+=======
+  <component name="ChangeListManager">
+    <list default="true" id="698b6ce6-dc1d-4d77-a920-f490cd17f587" name="Default Changelist" comment="" />
+>>>>>>> KotlinCountries
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Kotlin File" />
       </list>
     </option>
@@ -43,6 +49,31 @@
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+=======
+        <option value="navigationResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c3BsmGKWBO4o4otL1NwKX2hRYu" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.yesimyildirim.kotlincountries.view" />
+    </key>
+>>>>>>> KotlinCountries
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -56,7 +87,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Android App.app">
+=======
+  <component name="RunManager">
+>>>>>>> KotlinCountries
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -123,6 +158,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="ScopeCoroutinesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <option name="VM_PARAMETERS" />
@@ -155,17 +191,27 @@
         <item itemvalue="Kotlin.ScopeCoroutinesKt" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> KotlinCountries
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="b8f5ab9f-9eb6-4d8c-8194-7baa497d97dd" name="Default Changelist" comment="" />
       <created>1589210284397</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589210284397</updated>
+=======
+      <changelist id="698b6ce6-dc1d-4d77-a920-f490cd17f587" name="Default Changelist" comment="" />
+      <created>1589747606089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589747606089</updated>
+>>>>>>> KotlinCountries
     </task>
     <servers />
   </component>

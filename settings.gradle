@@ -1,2 +1,3 @@
 rootProject.name='KotlinCoroutines'
+rootProject.name='KotlinCountries'
 include ':app'
